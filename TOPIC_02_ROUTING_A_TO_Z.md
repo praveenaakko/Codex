@@ -10,6 +10,7 @@ This module turns routing from “I know route syntax” into production-grade m
 ## Implementation Assets in Repo
 - Code lab folder: `topic02-routing-lab/`
 - Command walkthrough: `topic02-routing-lab/README.md`
+- Cookbook walkthrough (why + file-by-file): `TOPIC_02_ROUTING_COOKBOOK.md`
 
 ---
 

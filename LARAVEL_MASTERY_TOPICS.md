@@ -16,6 +16,13 @@ For each topic, master it in 5 dimensions:
 ## Program Modules in This Repository
 1. Topic 01: [Core Runtime & Internals](TOPIC_01_CORE_RUNTIME_AND_INTERNALS.md)
 2. Topic 02: [Routing A→Z](TOPIC_02_ROUTING_A_TO_Z.md)
+3. Topic 03: [Middleware & HTTP Pipeline A→Z](TOPIC_03_MIDDLEWARE_HTTP_PIPELINE_A_TO_Z.md)
+4. Topic 04: [Controllers, Actions & Application Layer Patterns A→Z](TOPIC_04_CONTROLLERS_ACTIONS_APPLICATION_LAYER_A_TO_Z.md)
+
+### Cookbook Guides
+- [Topic 02 Cookbook](TOPIC_02_ROUTING_COOKBOOK.md)
+- [Topic 03 Cookbook](TOPIC_03_MIDDLEWARE_COOKBOOK.md)
+- [Topic 04 Cookbook](TOPIC_04_APPLICATION_LAYER_COOKBOOK.md)
 
 ---
 
@@ -292,4 +299,4 @@ You are "mastered" only when you can:
 5. Security → Observability → Deployment/Scaling
 6. Domain-specific advanced tracks + capstone
 
-Next step after Topic 02 is Topic 03 (**Middleware & HTTP Pipeline A→Z**).
+Next step after Topic 04 is Topic 05 (**Validation & Data Integrity A→Z**).
